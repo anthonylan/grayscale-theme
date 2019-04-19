@@ -155,7 +155,7 @@ a:focus {
     font-size: 2rem;
     text-transform: none !important;
     margin-top: 20%;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 .intro .intro-body .intro-text {
@@ -169,7 +169,7 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 4.7rem;
+        font-size: 4.9rem;
     }
 
     .intro .intro-body .intro-text {
