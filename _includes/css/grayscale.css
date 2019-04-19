@@ -169,7 +169,7 @@ a:focus {
 .intro .intro-body .brand-heading {
     font-size: 2.5rem;
     max-width: 100%;
-    margin: 15% auto 0 auto;
+    margin: 30% auto 0 auto;
 }
 }
 .intro .intro-body .intro-text {
@@ -369,7 +369,12 @@ ul.banner-social-buttons li {
         margin-bottom: 0;
     }
 }
-
+ .brand {
+  padding: 40px 0; 
+}
+.brand img{
+    width: 80px;
+}
 footer {
     padding: 50px 0;
 }
