@@ -181,8 +181,7 @@ a:focus {
 
 .click-trigger{
     display: block;
-    position: relative;
-    top: 70%;
+    margin-top: 5rem;
     font-size: 1.5rem;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: white;
