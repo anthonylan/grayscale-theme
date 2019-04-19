@@ -152,8 +152,8 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 3rem;
-    text-transform: none;
+    font-size: 30px;
+    text-transform: none !important;
     margin-top: 3rem;
     font-family: 'Lusitana', serif !important;
 }
