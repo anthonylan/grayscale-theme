@@ -71,7 +71,7 @@ a:focus {
     width: 100%;
     margin: 0 auto;
 }
- .navbar-brand {
+ .brand {
    display: block;
    text-align: center;  
 }
@@ -164,7 +164,7 @@ a:focus {
 }
 @media(max-width:550px){
 .intro .intro-body .brand-heading {
-    font-size: 2rem;
+    font-size: 2.5rem;
     max-width: 100%;
     margin: 15% auto 0 auto;
 }
