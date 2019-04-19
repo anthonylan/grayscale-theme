@@ -184,15 +184,15 @@ a:focus {
     /**width: 70px;*/
     /*height: 70px;*/
     margin-top: 5rem;
-    padding: 7px 16px;
+    /*padding: 7px 16px;*/
     /*border: 2px solid #fff;*/
     /*border-radius: 35px;*/
-    font-size: 20px;
+    font-size: .9rem;
     color: #fff;
     /*background: 0 0;*/
-    -webkit-transition: background .3s ease-in-out;
-    -moz-transition: background .3s ease-in-out;
-    transition: background .3s ease-in-out;
+    /*-webkit-transition: background .3s ease-in-out;*/
+    /*-moz-transition: background .3s ease-in-out;*/
+   /* transition: background .3s ease-in-out;*/
 }
 
 .btn-circle:hover,
