@@ -152,10 +152,10 @@ a:focus {
 }
 @import url('https://fonts.googleapis.com/css?family=Bellefair');
 .intro .intro-body .brand-heading {
-    font-size: 30px;
+    font-size: 40px;
     text-transform: none !important;
-    margin-top: 30%;
-    font-family: 'Bellefair', serif;
+    margin-top: 20%;
+    font-family: 'Bellefair', serif !important;
 }
 
 .intro .intro-body .intro-text {
@@ -169,11 +169,11 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 70px;
+        font-size: 100px;
     }
 
     .intro .intro-body .intro-text {
-        font-size: 25px;
+        font-size: 22px;
     }
 }
 
