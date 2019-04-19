@@ -155,6 +155,7 @@ a:focus {
     font-size: 2rem;
     text-transform: none !important;
     margin-top: 20%;
+    line-height: 1.8;
 }
 
 .intro .intro-body .intro-text {
