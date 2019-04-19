@@ -150,11 +150,12 @@ a:focus {
     display: table-cell;
     vertical-align: middle;
 }
-
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
 .intro .intro-body .brand-heading {
     font-size: 30px;
     text-transform: none !important;
     margin-top: 30%;
+    font-family: 'Bellefair', serif;
 }
 
 .intro .intro-body .intro-text {
