@@ -182,9 +182,10 @@ a:focus {
 .click-trigger{
     display: block;
     margin-top: 7rem;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: white;
+    animation: changeColor ease 2s infinite;
 }
 
 .click-trigger .fa{
@@ -194,6 +195,12 @@ a:focus {
 
 .click-trigger:hover{
     color: rgba(255, 255, 255, .50);
+}
+@-webkit-keyframes changeColor {
+    0%{color: white}
+    40%{color: rgba(255, 255, 255, .80);}
+    80%{color: rgba(255, 255, 255, .50);}
+    100%{color: white}
 }
 
 .btn-circle {
