@@ -145,7 +145,7 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
-@import url('https://fonts.googleapis.com/css?family=Lusitana:400,700');
+
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
@@ -155,7 +155,6 @@ a:focus {
     font-size: 30px;
     text-transform: none !important;
     margin-top: 30%;
-    font-family: 'Lusitana', serif !important;
 }
 
 .intro .intro-body .intro-text {
