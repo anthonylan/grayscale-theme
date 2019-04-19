@@ -163,7 +163,13 @@ a:focus {
     max-width: 75%;
     margin: 15% auto 0 auto;
 }
-
+@media(max-width:550px){
+.intro .intro-body .brand-heading {
+    font-size: 3rem;
+    max-width: 100%;
+    margin: 15% auto 0 auto;
+}
+}
 .intro .intro-body .intro-text {
     font-size: 18px;
 }
