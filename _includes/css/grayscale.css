@@ -154,9 +154,10 @@ a:focus {
 .intro .intro-body .brand-heading {
     font-size: 40px;
 }
-
+@import url('https://fonts.googleapis.com/css?family=Lusitana:400,700');
 .intro .intro-body .intro-text {
     font-size: 18px;
+    font-family: 'Lusitana', serif;
 }
 
 @media(min-width:767px) {
