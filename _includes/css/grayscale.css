@@ -182,13 +182,14 @@ a:focus {
 .click-trigger{
     display: block;
     margin-top: 7rem;
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: white;
 }
 
 .click-trigger .fa{
     display: block;
+    font-size: 2rem;
 }
 
 .btn-circle {
