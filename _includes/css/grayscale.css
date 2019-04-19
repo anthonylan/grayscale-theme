@@ -62,14 +62,16 @@ a:focus {
 
 .navbar-custom {
     margin-bottom: 0;
-    border-bottom: 1px solid rgba(255,255,255,.3);
+    /*border-bottom: 1px solid rgba(255,255,255,.3);*/
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: {{ site.color.primary-dark }};
+    /*background-color: {{ site.color.primary-dark }};*/
 }
 
 .navbar-custom .navbar-brand {
     font-weight: 700;
+    display: block;
+    text-align: center;
 }
 
 .navbar-custom .navbar-brand:focus {
@@ -186,7 +188,6 @@ a:focus {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: white;
     font-weight: 500;
-    animation: changeColor ease-in-out 1s infinite;
 }
 
 .click-trigger .fa{
@@ -197,12 +198,7 @@ a:focus {
 .click-trigger:hover{
     color: rgba(255, 255, 255, .50);
 }
-@-webkit-keyframes changeColor {
-    0%{color: white;}
-    40%{color: rgba(255, 255, 255, .80);}
-    80%{color: rgba(255, 255, 255, .50);}
-    100%{color: white;}
-}
+
 
 .btn-circle {
     width: 70px;
