@@ -1,7 +1,6 @@
 # Site settings
 title: Hi, I'm Anthony. I build unique & interactive websites.
-email: your-email@domain.com
-favicon: 'img/logo.png'
+email: hianthonylan@gmail.com
 baseurl:
 description: ""
 
@@ -15,16 +14,12 @@ footer: Anthonylan
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://linkedin.com/in/anthonycharles11
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/anthonyxcharles
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/anthonylan
 
 # Build settings
 markdown: kramdown
